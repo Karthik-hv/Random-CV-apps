@@ -1,0 +1,1 @@
+A Live Sketch App which is done by sending the canny edge detected frames continuously from the webcam
